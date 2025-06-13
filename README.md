@@ -22,7 +22,7 @@ A simple and modern JavaFX-based Sudoku Solver using backtracking algorithm.
 ## Author
 
 Sahil Rajput  
-UID: 22BSC10137
+
 
 ---
 
